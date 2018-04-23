@@ -1,0 +1,4 @@
+[report]
+
+exclude_lines =
+   logger.debug('%s is accessible', self.cabundle) 
